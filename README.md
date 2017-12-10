@@ -17,13 +17,18 @@ cd restclient-cpp
 ./configure
 make install
 ldconfig
+exit
 ```
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Compiling the program :
-`make`
+```
+git clone https://github.com/SilBoydens/Touchberry_Thumper_Project
+cd Touchberry_Thumper_Project
+make
+```
 
 ------------------------------------------------------------------------------------------------------------------------------
 ## Executing the application : 
 
-`./touchshield`
+`./bin/touchshield`
