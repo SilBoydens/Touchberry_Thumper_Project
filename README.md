@@ -23,9 +23,3 @@ cd restclient-cpp
 make install
 
 ldconfig
-
-cd /usr/local/src
-
-git clone https://github.com/nlohmann/json.git
-
-cp json/src/json.hpp /usr/local/include/
