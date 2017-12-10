@@ -4,6 +4,7 @@ Dependencies :
 
 sudo apt-get update && sudo apt-get install git build-essential autoconf automake libtool libcurl4-gnutls-dev
 
+----------------------------------------------------------------------------------------------------------------
 
 Compiling the library :
 
